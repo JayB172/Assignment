@@ -1,2 +1,3 @@
 # Assignment
-Responsive layout using CSS grid.
+Simple responsive layout using CSS grid.
+
