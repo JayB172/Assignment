@@ -26,7 +26,17 @@
     margin-top: 0px;
     margin-left: 78%;
     padding-left: 10px;
-    background-color: aquamarine;
+  }
+.chicken{
+    background: #848ccf;
+
+  }
+  .beef{
+    background: #62760c;
+  }
+  .sushi{
+    background: #cdb30c;
+
   }
   p{
     margin-left: 0px;
@@ -36,12 +46,12 @@
   }
   #content2{
      border:1px solid;
-    background:#cff6cf;
+    background:#e4f9ff;
     grid-area: content2;
   }
   #content3{
      border:1px solid;
-    background:#f6def6;
+    background:#e4f9ff;
     grid-area:content3;
   }
   @media only screen and (max-width: 767px){
